@@ -17,7 +17,7 @@ These lists contain fully Open Access as well as hybrid Open Access titles, and 
 * Article Processing Charge (in USD)
 * Year
 
-The level of completeness varies according to what I was able to find online (see here). I will work to keep these lists updated and add to them if I come across missing information.
+The level of completeness varies according to what I was able to find online (see below). I will work to keep these lists updated and add to them if I come across missing information.
 
 ### Where did I get all these numbers from?
 Whenever available, I took the numbers from the publishers OA/APC lists. When such lists were not available, I manually added (or at least started to) the missing information, such as ISSNs and APCs.
