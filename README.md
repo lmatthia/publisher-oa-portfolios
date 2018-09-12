@@ -14,7 +14,7 @@ These lists contain fully Open Access as well as hybrid Open Access titles, and 
 * ISSN
 * Journal Title
 * Open Access Mode
-* Article Processing Charge (in USD)
+* Article Processing Charge (in USD, excluding taxes)
 * Year
 
 The level of completeness varies according to what I was able to find online (see below). I will work to keep these lists updated and add to them if I come across missing information.
