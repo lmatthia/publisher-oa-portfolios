@@ -4,6 +4,7 @@ Data collection of publishers' hybrid and fully Open Access journals over time
 * [About](#about)
 * [Where did I get all these numbers from?](#where-did-i-get-all-these-numbers-from)
 * [How you can contribute](#how-you-can-contribute)
+* [How to cite](#how-to-cite)
 
 ### About
 
@@ -84,3 +85,8 @@ Here are the links to the publishers' lists:
 
 ### How you can contribute
 If you have any of the missing information or spreadsheets or website snippets that might be useful, please let me know.
+
+### How to cite
+Lisa Matthias. (2018, December 20). lmatthia/publisher-oa-portfolios v1.0 (Version v1.0). Zenodo. [doi: 10.5281/zenodo.2459746](http://doi.org/10.5281/zenodo.2459746) 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2459746.svg)](https://doi.org/10.5281/zenodo.2459746)
