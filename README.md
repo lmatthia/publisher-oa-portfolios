@@ -75,6 +75,7 @@ Here are the links to the publishers' lists:
     + 2012: [OA](http://web.archive.org/web/20120708051845/http://journalauthors.tandf.co.uk/pdfs/OpenAccess-PressRelease.pdf), [Hybrid](http://web.archive.org/web/20120130183224/http://journalauthors.tandf.co.uk/pdfs/openselect-titles.pdf)
 
 * Wiley
+    + + 2019: [OA](http://web.archive.org/web/20190518192345/https://authorservices.wiley.com/asset/Wiley-Journal-APCs-Open-Access.xlsx), [Hybrid](http://web.archive.org/web/20190518192538/https://authorservices.wiley.com/asset/Wiley-Journal-APCs-OnlineOpen.xlsx)
     + 2018: [OA](https://web.archive.org/web/20180828145303/https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/WOA_Journals_Licensing_and_APCs_15JUNE2018%20(1).xlsx), [Hybrid](https://web.archive.org/web/20180828145353/https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley-Journal-APCs-2018MAY24.xlsx)
     + 2017: [OA](https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/WOA_Journals_Licensing_and_APCs_04May2017.xlsx), [Hybrid](http://web.archive.org/web/20170903041917if_/https://authorservices.wiley.com/asset/photos/licensing-and-open-access-photos/Wiley-Journal-APCs-2017Jun12.xlsx)
     + 2016: [OA](http://web.archive.org/web/20160623013515/http://www.wileyopenaccess.com:80/details/content/12f25e0654f/Publication-Charges.html), [Hybrid](http://media.wiley.com/assets/7338/08/Wiley-Journal-APCs-2016Sep22.xlsx)
