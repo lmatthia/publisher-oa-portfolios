@@ -25,6 +25,9 @@ Whenever available, I took the numbers from the publishers OA/APC lists. When su
 
 Here are the links to the publishers' lists:
 
+* Hindawi
+    + 2019: Thanks to [@dommitchell](https://github.com/dommitchell) and Hindawi
+    
 * Elsevier
     + 2018: [OA & Hybrid](http://web.archive.org/web/20180702110911/https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)
     + 2017: [OA & Hybrid](http://web.archive.org/web/20170119172849/https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)
@@ -36,6 +39,9 @@ Here are the links to the publishers' lists:
     + 2011: [OA](http://web.archive.org/web/20110927064359/http://www.elsevier.com:80/wps/find/intro.cws_home/open_access_mechanisms), [Hybrid](http://web.archive.org/web/20130516121851/http://cdn.elsevier.com/assets/pdf_file/0005/105179/Sponsored_Articles_2011.pdf), [Hybrid APCs](http://web.archive.org/web/20110627112327/http://www.elsevier.com:80/framework_authors/Sponsoredarticles/sponsoredarticleoption.pdf)
     + 2010: [OA](https://www.elsevier.com/editors-update/story/access/open-access-developing-new-publishing-models), [Hybrid](http://web.archive.org/web/20100523194902/http://www.elsevier.com:80/wps/find/authors.authors/sponsoredarticles)
     
+* Oxford University Press
+    + 2019: Thanks to [Bruce White](https://scholar.google.co.nz/citations?user=hzEyynQAAAAJ&hl=en)
+
 * SAGE
     + 2019: [OA](http://web.archive.org/web/20190518223021/https://us.sagepub.com/en-us/nam/pure-gold-open-access-journals-at-sage), [OA APCs](http://web.archive.org/web/20190518223230/https://sustainingknowledgecommons.files.wordpress.com/2019/04/sage_2019_raw_data.xlsx)
     + 2018: [OA](http://web.archive.org/web/20180828144432/https://us.sagepub.com/sites/default/files/2018_sage_journals_institutional_price_list_04.20.18.xlsx), Hybrid = [Subscription](http://web.archive.org/web/20180828144432/https://us.sagepub.com/sites/default/files/2018_sage_journals_institutional_price_list_04.20.18.xlsx) - [Hybrid Exceptions](https://web.archive.org/web/20180828144736/https://uk.sagepub.com/en-gb/eur/sage-choice-journal-and-pricing-exceptions)
