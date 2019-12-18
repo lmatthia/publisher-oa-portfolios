@@ -15,7 +15,7 @@ These lists contain fully Open Access as well as hybrid Open Access titles, and 
 * ISSN
 * Journal Title
 * Open Access Mode
-* Article Processing Charge (in USD, excluding taxes)
+* Article Processing Charge (if not noted otherwise: in USD, excluding taxes)
 * Year
 
 The level of completeness varies according to what I was able to find online (see below). I will work to keep these lists updated and add to them if I come across missing information.
@@ -25,8 +25,11 @@ Whenever available, I took the numbers from the publishers OA/APC lists. When su
 
 Here are the links to the publishers' lists:
 
-* Hindawi
-    + 2019: Thanks to [@dommitchell](https://github.com/dommitchell) and Hindawi
+* Cambridge University Press
+    + 2019: [OA & Hybrid](http://web.archive.org/web/20191218202019/https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2/Cambridge-Journals-APC-price-list-2019.11.xlsx)
+
+* Copernicus
+    + 2019: From [journal metadata provided by the DOAJ](http://web.archive.org/web/20191218203559/https://s3.eu-west-2.amazonaws.com/doaj-data-cache/journalcsv__doaj_20191218_1935_utf8.csv). Thanks to [@dommitchell](https://github.com/dommitchell).
     
 * Elsevier
     + 2018: [OA & Hybrid](http://web.archive.org/web/20180702110911/https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)
@@ -38,6 +41,9 @@ Here are the links to the publishers' lists:
     + 2012: [OA](http://web.archive.org/web/20120229224301/http://www.elsevier.com:80/wps/find/intro.cws_home/open_access)
     + 2011: [OA](http://web.archive.org/web/20110927064359/http://www.elsevier.com:80/wps/find/intro.cws_home/open_access_mechanisms), [Hybrid](http://web.archive.org/web/20130516121851/http://cdn.elsevier.com/assets/pdf_file/0005/105179/Sponsored_Articles_2011.pdf), [Hybrid APCs](http://web.archive.org/web/20110627112327/http://www.elsevier.com:80/framework_authors/Sponsoredarticles/sponsoredarticleoption.pdf)
     + 2010: [OA](https://www.elsevier.com/editors-update/story/access/open-access-developing-new-publishing-models), [Hybrid](http://web.archive.org/web/20100523194902/http://www.elsevier.com:80/wps/find/authors.authors/sponsoredarticles)
+    
+* Hindawi
+    + 2019: Thanks to [@dommitchell](https://github.com/dommitchell) and Hindawi
     
 * Oxford University Press
     + 2019: Thanks to [Bruce White](https://scholar.google.co.nz/citations?user=hzEyynQAAAAJ&hl=en)
