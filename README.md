@@ -32,6 +32,8 @@ Here are the links to the publishers' lists:
     + 2019: From [journal metadata provided by the DOAJ](http://web.archive.org/web/20191218203559/https://s3.eu-west-2.amazonaws.com/doaj-data-cache/journalcsv__doaj_20191218_1935_utf8.csv). Thanks to [@dommitchell](https://github.com/dommitchell).
     
 * Elsevier
+    + 2020: [OA & Hybrid](http://web.archive.org/web/20200410205235/https://www.elsevier.com/__data/promis_misc/j.custom97.xlsx)
+    + 2019: [OA & Hybrid](http://web.archive.org/web/20190114171311/https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)
     + 2018: [OA & Hybrid](http://web.archive.org/web/20180702110911/https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)
     + 2017: [OA & Hybrid](http://web.archive.org/web/20170119172849/https://www.elsevier.com/__data/promis_misc/j.custom97.pdf)
     + 2016: [OA & Hybrid](http://web.archive.org/web/20160407063026/http://cdn.elsevier.com/promis_misc/j.custom97.pdf)
