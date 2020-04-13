@@ -26,6 +26,7 @@ Whenever available, I took the numbers from the publishers OA/APC lists. When su
 Here are the links to the publishers' lists:
 
 * Cambridge University Press
+     + 2020: [OA & Hybrid](http://web.archive.org/web/20200413121421/https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2/Cambridge-Journals-APC-price-list-2020.7.xlsx)
     + 2019: [OA & Hybrid](http://web.archive.org/web/20191218202019/https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2/Cambridge-Journals-APC-price-list-2019.11.xlsx)
 
 * Copernicus
