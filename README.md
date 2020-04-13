@@ -8,7 +8,7 @@ Data collection of publishers' hybrid and fully Open Access journals over time
 
 ### About
 
-This data collection aims to provide an overview of the Open Access journal portfolios of academic publishers. In particular, **Elsevier**, **SAGE**, **Springer Nature**, **Taylor & Francis**, and **Wiley**, beginning with the launch of their respective first fully Open Access journals until now (May 2019).
+This data collection aims to provide an overview of the Open Access journal portfolios of academic publishers. In particular, **Elsevier**, **SAGE**, **Springer Nature**, **Taylor & Francis**, and **Wiley**, beginning with the launch of their respective first fully Open Access journals until now (April 2020).
 
 These lists contain fully Open Access as well as hybrid Open Access titles, and include the following information:
 
