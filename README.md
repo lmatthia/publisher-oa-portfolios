@@ -83,6 +83,7 @@ Here are the links to the publishers' lists:
         + 2011: [OA](http://web.archive.org/web/20110802040449/http://www.springeropen.com:80/authors)
 
 * Taylor & Francis
+     + 2020: [OA](http://web.archive.org/web/20200413085440/https://www.tandfonline.com/action/contentHoldings?code=TF_Open&), [Hybrid](https://web.archive.org/web/20200413092147/https://www.tandfonline.com/action/contentHoldings?code=JCRPPF_N_2020_000&)
     + 2019: [OA & Hybrid](https://web.archive.org/web/20190518202448/https://authorservices.taylorandfrancis.com/publishing-open-access/oa-options-finder/)
     + 2018: [OA & Hybrid](http://web.archive.org/web/20180702205742/https://authorservices.taylorandfrancis.com/journal-list/), [Hybrid APCs](http://web.archive.org/web/20180119113804/https://authorservices.taylorandfrancis.com/publishing-open-access-with-taylor-francis/)
     + 2017: [OA & Hybrid](http://web.archive.org/web/20170724093129/http://authorservices.taylorandfrancis.com:80/journal-list), [Hybrid APCs](http://web.archive.org/web/20170821114856/http://www.tandfonline.com/openaccess/faqs)
