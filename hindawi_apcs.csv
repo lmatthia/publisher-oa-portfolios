@@ -1,231 +1,451 @@
 ﻿issn;journal_title;oa_mode;apc;year
-;Abstract and Applied Analysis;Open Access;975;2019
-;Active and Passive Electronic Components;Open Access;1025;2019
+1687-0409;Abstract and Applied Analysis;Open Access;975;2019
+1563-5031;Active and Passive Electronic Components;Open Access;1025;2019
 ;Advances in Acoustics and Vibration;Open Access;1025;2019
-;Advances in Agriculture;Open Access;775;2019
-;Advances in Astronomy;Open Access;1025;2019
+2314-7539;Advances in Agriculture;Open Access;775;2019
+1687-7977;Advances in Astronomy;Open Access;1025;2019
 ;Advances in Bioinformatics;Open Access;775;2019
-;Advances in Civil Engineering;Open Access;1990;2019
-;Advances in Condensed Matter Physics;Open Access;1300;2019
-;Advances in Fuzzy Systems;Open Access;1025;2019
-;Advances in Hematology;Open Access;775;2019
-;Advances in High Energy Physics;Open Access;1300;2019
-;Advances in Human-Computer Interaction;Open Access;1025;2019
-;Advances in Materials Science and Engineering;Open Access;2100;2019
-;Advances in Mathematical Physics;Open Access;1900;2019
-;Advances in Medicine;Open Access;775;2019
-;Advances in Meteorology;Open Access;1600;2019
-;Advances in Multimedia;Open Access;1025;2019
-;Advances in Operations Research;Open Access;975;2019
+1687-8094;Advances in Civil Engineering;Open Access;1990;2019
+1687-8124;Advances in Condensed Matter Physics;Open Access;1300;2019
+1687-711X;Advances in Fuzzy Systems;Open Access;1025;2019
+1687-9112;Advances in Hematology;Open Access;775;2019
+1687-7365;Advances in High Energy Physics;Open Access;1300;2019
+1687-5907;Advances in Human-Computer Interaction;Open Access;1025;2019
+1687-8442;Advances in Materials Science and Engineering;Open Access;2100;2019
+1687-9139;Advances in Mathematical Physics;Open Access;1900;2019
+2314-758X;Advances in Medicine;Open Access;775;2019
+1687-9317;Advances in Meteorology;Open Access;1600;2019
+1687-5699;Advances in Multimedia;Open Access;1025;2019
+1687-9155;Advances in Operations Research;Open Access;975;2019
 ;Advances in OptoElectronics;Open Access;1025;2019
-;Advances in Orthopedics;Open Access;1025;2019
+2090-3472;Advances in Orthopedics;Open Access;1025;2019
 ;Advances in Pharmacological Sciences;Open Access;1026;2019
-;Advances in Polymer Technology;Open Access;1900;2019
-;Advances in Preventive Medicine;Open Access;775;2019
-;Advances in Public Health;Open Access;775;2019
-;Advances in Tribology;Open Access;1025;2019
-;Advances in Urology;Open Access;1025;2019
-;Advances in Virology;Open Access;1025;2019
-;AIDS Research and Treatment;Open Access;1025;2019
-;Analytical Cellular Pathology;Open Access;1300;2019
-;Anemia;Open Access;1025;2019
-;Anesthesiology Research and Practice;Open Access;1025;2019
-;Applied and Environmental Soil Science;Open Access;775;2019
-;Applied Bionics and Biomechanics;Open Access;1600;2019
-;Applied Computational Intelligence and Soft Computing;Open Access;1025;2019
-;Archaea;Open Access;1300;2019
-;Autism Research and Treatment;Open Access;775;2019
-;Autoimmune Diseases;Open Access;1025;2019
-;Behavioural Neurology;Open Access;1600;2019
-;Biochemistry Research International;Open Access;1300;2019
-;Bioinorganic Chemistry and Applications;Open Access;1300;2019
-;BioMed Research International;Open Access;1990;2019
-;Canadian Journal of Gastroenterology and Hepatology;Open Access;1900;2019
-;Canadian Journal of Infectious Diseases and Medical Microbiology;Open Access;1600;2019
-;Canadian Respiratory Journal;Open Access;1600;2019
-;Cardiology Research and Practice;Open Access;1600;2019
-;Cardiovascular Therapeutics;Open Access;1600;2019
-;Case Reports in Anesthesiology;Open Access;575;2019
-;Case Reports in Cardiology;Open Access;575;2019
-;Case Reports in Critical Care;Open Access;575;2019
-;Case Reports in Dentistry;Open Access;575;2019
-;Case Reports in Dermatological Medicine;Open Access;575;2019
-;Case Reports in Emergency Medicine;Open Access;575;2019
-;Case Reports in Endocrinology;Open Access;575;2019
-;Case Reports in Gastrointestinal Medicine;Open Access;575;2019
-;Case Reports in Genetics;Open Access;575;2019
-;Case Reports in Hematology;Open Access;575;2019
-;Case Reports in Hepatology;Open Access;575;2019
-;Case Reports in Immunology;Open Access;575;2019
-;Case Reports in Infectious Diseases;Open Access;575;2019
-;Case Reports in Medicine;Open Access;575;2019
-;Case Reports in Nephrology;Open Access;575;2019
-;Case Reports in Neurological Medicine;Open Access;575;2019
-;Case Reports in Obstetrics and Gynecology;Open Access;575;2019
-;Case Reports in Oncological Medicine;Open Access;575;2019
-;Case Reports in Ophthalmological Medicine;Open Access;575;2019
-;Case Reports in Orthopedics;Open Access;575;2019
-;Case Reports in Otolaryngology;Open Access;575;2019
-;Case Reports in Pathology;Open Access;575;2019
-;Case Reports in Pediatrics;Open Access;575;2019
-;Case Reports in Psychiatry;Open Access;575;2019
-;Case Reports in Pulmonology;Open Access;575;2019
-;Case Reports in Radiology;Open Access;575;2019
-;Case Reports in Rheumatology;Open Access;575;2019
-;Case Reports in Surgery;Open Access;575;2019
-;Case Reports in Transplantation;Open Access;575;2019
-;Case Reports in Urology;Open Access;575;2019
-;Case Reports in Vascular Medicine;Open Access;575;2019
-;Case Reports in Veterinary Medicine;Open Access;575;2019
+1098-2329;Advances in Polymer Technology;Open Access;1900;2019
+2090-3499;Advances in Preventive Medicine;Open Access;775;2019
+2314-7784;Advances in Public Health;Open Access;775;2019
+1687-5923;Advances in Tribology;Open Access;1025;2019
+1687-6377;Advances in Urology;Open Access;1025;2019
+1687-8647;Advances in Virology;Open Access;1025;2019
+2090-1259;AIDS Research and Treatment;Open Access;1025;2019
+2210-7185;Analytical Cellular Pathology;Open Access;1300;2019
+2090-1275;Anemia;Open Access;1025;2019
+1687-6970;Anesthesiology Research and Practice;Open Access;1025;2019
+1687-7675;Applied and Environmental Soil Science;Open Access;775;2019
+1754-2103;Applied Bionics and Biomechanics;Open Access;1600;2019
+1687-9732;Applied Computational Intelligence and Soft Computing;Open Access;1025;2019
+1472-3654;Archaea;Open Access;1300;2019
+2090-1933;Autism Research and Treatment;Open Access;775;2019
+2090-0430;Autoimmune Diseases;Open Access;1025;2019
+1875-8584;Behavioural Neurology;Open Access;1600;2019
+2090-2255;Biochemistry Research International;Open Access;1300;2019
+1687-479X;Bioinorganic Chemistry and Applications;Open Access;1300;2019
+2314-6141;BioMed Research International;Open Access;1990;2019
+2291-2797;Canadian Journal of Gastroenterology and Hepatology;Open Access;1900;2019
+1918-1493;Canadian Journal of Infectious Diseases and Medical Microbiology;Open Access;1600;2019
+1916-7245;Canadian Respiratory Journal;Open Access;1600;2019
+2090-0597;Cardiology Research and Practice;Open Access;1600;2019
+1755-5922;Cardiovascular Therapeutics;Open Access;1600;2019
+2090-6390;Case Reports in Anesthesiology;Open Access;575;2019
+2090-6412;Case Reports in Cardiology;Open Access;575;2019
+2090-6439;Case Reports in Critical Care;Open Access;575;2019
+2090-6455;Case Reports in Dentistry;Open Access;575;2019
+2090-6471;Case Reports in Dermatological Medicine;Open Access;575;2019
+2090-6498;Case Reports in Emergency Medicine;Open Access;575;2019
+2090-651X;Case Reports in Endocrinology;Open Access;575;2019
+2090-6536;Case Reports in Gastrointestinal Medicine;Open Access;575;2019
+2090-6552;Case Reports in Genetics;Open Access;575;2019
+2090-6579;Case Reports in Hematology;Open Access;575;2019
+2090-6595;Case Reports in Hepatology;Open Access;575;2019
+2090-6617;Case Reports in Immunology;Open Access;575;2019
+2090-6633;Case Reports in Infectious Diseases;Open Access;575;2019
+1687-9635;Case Reports in Medicine;Open Access;575;2019
+2090-665X;Case Reports in Nephrology;Open Access;575;2019
+2090-6676;Case Reports in Neurological Medicine;Open Access;575;2019
+2090-6692;Case Reports in Obstetrics and Gynecology;Open Access;575;2019
+2090-6714;Case Reports in Oncological Medicine;Open Access;575;2019
+2090-6730;Case Reports in Ophthalmological Medicine;Open Access;575;2019
+2090-6757;Case Reports in Orthopedics;Open Access;575;2019
+2090-6773;Case Reports in Otolaryngology;Open Access;575;2019
+2090-679X;Case Reports in Pathology;Open Access;575;2019
+2090-6811;Case Reports in Pediatrics;Open Access;575;2019
+2090-6838;Case Reports in Psychiatry;Open Access;575;2019
+2090-6854;Case Reports in Pulmonology;Open Access;575;2019
+2090-6870;Case Reports in Radiology;Open Access;575;2019
+2090-6897;Case Reports in Rheumatology;Open Access;575;2019
+2090-6919;Case Reports in Surgery;Open Access;575;2019
+2090-6951;Case Reports in Transplantation;Open Access;575;2019
+2090-6978;Case Reports in Urology;Open Access;575;2019
+2090-6994;Case Reports in Vascular Medicine;Open Access;575;2019
+2090-701X;Case Reports in Veterinary Medicine;Open Access;575;2019
 ;Child Development Research;Open Access;775;2019
-;Complexity;Open Access;2100;2019
-;Computational and Mathematical Methods in Medicine;Open Access;1900;2019
-;Computational Intelligence and Neuroscience;Open Access;1900;2019
-;Contrast Media & Molecular Imaging;Open Access;1600;2019
-;Critical Care Research and Practice;Open Access;1025;2019
-;Current Gerontology and Geriatrics Research;Open Access;775;2019
-;Depression Research and Treatment;Open Access;775;2019
-;Dermatology Research and Practice;Open Access;1025;2019
-;Discrete Dynamics in Nature and Society;Open Access;2100;2019
-;Disease Markers;Open Access;1900;2019
-;Education Research International;Open Access;1025;2019
-;Emergency Medicine International;Open Access;1300;2019
+1099-0526;Complexity;Open Access;2100;2019
+1748-6718;Computational and Mathematical Methods in Medicine;Open Access;1900;2019
+1687-5273;Computational Intelligence and Neuroscience;Open Access;1900;2019
+1555-4317;Contrast Media & Molecular Imaging;Open Access;1600;2019
+2090-1313;Critical Care Research and Practice;Open Access;1025;2019
+1687-7071;Current Gerontology and Geriatrics Research;Open Access;775;2019
+2090-133X;Depression Research and Treatment;Open Access;775;2019
+1687-6113;Dermatology Research and Practice;Open Access;1025;2019
+1607-887X;Discrete Dynamics in Nature and Society;Open Access;2100;2019
+1875-8630;Disease Markers;Open Access;1900;2019
+2090-4010;Education Research International;Open Access;1025;2019
+2090-2859;Emergency Medicine International;Open Access;1300;2019
 ;Enzyme Research;Open Access;775;2019
-;Evidence-Based Complementary and Alternative Medicine;Open Access;2250;2019
-;Gastroenterology Research and Practice;Open Access;1900;2019
+1741-4288;Evidence-Based Complementary and Alternative Medicine;Open Access;2250;2019
+1687-630X;Gastroenterology Research and Practice;Open Access;1900;2019
 ;Genetics Research International;Open Access;1025;2019
-;Geofluids;Open Access;1600;2019
-;Heteroatom Chemistry;Open Access;1600;2019
-;Infectious Diseases in Obstetrics and Gynecology;Open Access;775;2019
-;Interdisciplinary Perspectives on Infectious Diseases;Open Access;775;2019
-;International Journal of Aerospace Engineering;Open Access;1900;2019
-;International Journal of Agronomy;Open Access;1025;2019
-;International Journal of Alzheimer’s Disease;Open Access;775;2019
-;International Journal of Analytical Chemistry;Open Access;1600;2019
-;International Journal of Antennas and Propagation;Open Access;1900;2019
-;International Journal of Biomaterials;Open Access;1025;2019
-;International Journal of Biomedical Imaging;Open Access;1025;2019
-;International Journal of Breast Cancer;Open Access;1025;2019
-;International Journal of Cell Biology;Open Access;775;2019
-;International Journal of Chemical Engineering;Open Access;1025;2019
-;International Journal of Chronic Diseases;Open Access;775;2019
-;International Journal of Computer Games Technology;Open Access;1025;2019
-;International Journal of Corrosion;Open Access;1025;2019
-;International Journal of Dentistry;Open Access;1300;2019
-;International Journal of Differential Equations;Open Access;975;2019
-;International Journal of Digital Multimedia Broadcasting;Open Access;1025;2019
-;International Journal of Ecology;Open Access;775;2019
-;International Journal of Electrochemistry;Open Access;1025;2019
-;International Journal of Endocrinology;Open Access;1900;2019
-;International Journal of Food Science;Open Access;775;2019
-;International Journal of Forestry Research;Open Access;775;2019
-;International Journal of Genomics;Open Access;1600;2019
-;International Journal of Geophysics;Open Access;1025;2019
-;International Journal of Hepatology;Open Access;1025;2019
-;International Journal of Hypertension;Open Access;1300;2019
-;International Journal of Inflammation;Open Access;1025;2019
-;International Journal of Mathematics and Mathematical Sciences;Open Access;975;2019
+1468-8123;Geofluids;Open Access;1600;2019
+1098-1071;Heteroatom Chemistry;Open Access;1600;2019
+1098-0997;Infectious Diseases in Obstetrics and Gynecology;Open Access;775;2019
+1687-7098;Interdisciplinary Perspectives on Infectious Diseases;Open Access;775;2019
+1687-5974;International Journal of Aerospace Engineering;Open Access;1900;2019
+1687-8167;International Journal of Agronomy;Open Access;1025;2019
+2090-0252;International Journal of Alzheimer’s Disease;Open Access;775;2019
+1687-8779;International Journal of Analytical Chemistry;Open Access;1600;2019
+1687-5877;International Journal of Antennas and Propagation;Open Access;1900;2019
+1687-8795;International Journal of Biomaterials;Open Access;1025;2019
+1687-4196;International Journal of Biomedical Imaging;Open Access;1025;2019
+2090-3189;International Journal of Breast Cancer;Open Access;1025;2019
+1687-8884;International Journal of Cell Biology;Open Access;775;2019
+1687-8078;International Journal of Chemical Engineering;Open Access;1025;2019
+2314-5749;International Journal of Chronic Diseases;Open Access;775;2019
+1687-7055;International Journal of Computer Games Technology;Open Access;1025;2019
+1687-9333;International Journal of Corrosion;Open Access;1025;2019
+1687-8736;International Journal of Dentistry;Open Access;1300;2019
+1687-9651;International Journal of Differential Equations;Open Access;975;2019
+1687-7586;International Journal of Digital Multimedia Broadcasting;Open Access;1025;2019
+1687-9716;International Journal of Ecology;Open Access;775;2019
+2090-3537;International Journal of Electrochemistry;Open Access;1025;2019
+1687-8345;International Journal of Endocrinology;Open Access;1900;2019
+2314-5765;International Journal of Food Science;Open Access;775;2019
+1687-9376;International Journal of Forestry Research;Open Access;775;2019
+2314-4378;International Journal of Genomics;Open Access;1600;2019
+1687-8868;International Journal of Geophysics;Open Access;1025;2019
+2090-3456;International Journal of Hepatology;Open Access;1025;2019
+2090-0392;International Journal of Hypertension;Open Access;1300;2019
+2042-0099;International Journal of Inflammation;Open Access;1025;2019
+1687-0425;International Journal of Mathematics and Mathematical Sciences;Open Access;975;2019
 ;International Journal of Medicinal Chemistry;Open Access;1025;2019
-;International Journal of Microbiology;Open Access;775;2019
-;International Journal of Nephrology;Open Access;1025;2019
-;International Journal of Optics;Open Access;1300;2019
-;International Journal of Otolaryngology;Open Access;775;2019
-;International Journal of Pediatrics;Open Access;1025;2019
-;International Journal of Photoenergy;Open Access;1600;2019
-;International Journal of Polymer Science;Open Access;1600;2019
-;International Journal of Reconfigurable Computing;Open Access;1025;2019
-;International Journal of Reproductive Medicine;Open Access;775;2019
-;International Journal of Rheumatology;Open Access;1025;2019
-;International Journal of Rotating Machinery;Open Access;1025;2019
-;International Journal of Surgical Oncology;Open Access;1025;2019
-;International Journal of Telemedicine and Applications;Open Access;1025;2019
-;International Journal of Vascular Medicine;Open Access;1025;2019
-;International Journal of Zoology;Open Access;775;2019
-;Journal of Addiction;Open Access;775;2019
-;Journal of Advanced Transportation;Open Access;2100;2019
-;Journal of Aging Research;Open Access;775;2019
-;Journal of Analytical Methods in Chemistry;Open Access;1600;2019
-;Journal of Applied Mathematics;Open Access;975;2019
-;Journal of Cancer Epidemiology;Open Access;1025;2019
-;Journal of Chemistry;Open Access;1600;2019
-;Journal of Combustion;Open Access;1025;2019
-;Journal of Computer Networks and Communications;Open Access;1025;2019
-;Journal of Control Science and Engineering;Open Access;1300;2019
-;Journal of Diabetes Research;Open Access;1900;2019
+1687-9198;International Journal of Microbiology;Open Access;775;2019
+2090-2158;International Journal of Nephrology;Open Access;1025;2019
+1687-9392;International Journal of Optics;Open Access;1300;2019
+1687-921X;International Journal of Otolaryngology;Open Access;775;2019
+1687-9759;International Journal of Pediatrics;Open Access;1025;2019
+1687-529X;International Journal of Photoenergy;Open Access;1600;2019
+1687-9430;International Journal of Polymer Science;Open Access;1600;2019
+1687-7209;International Journal of Reconfigurable Computing;Open Access;1025;2019
+2314-5757;International Journal of Reproductive Medicine;Open Access;775;2019
+1687-9279;International Journal of Rheumatology;Open Access;1025;2019
+1542-3034;International Journal of Rotating Machinery;Open Access;1025;2019
+2090-1410;International Journal of Surgical Oncology;Open Access;1025;2019
+1687-6423;International Journal of Telemedicine and Applications;Open Access;1025;2019
+2090-2832;International Journal of Vascular Medicine;Open Access;1025;2019
+1687-8485;International Journal of Zoology;Open Access;775;2019
+2090-7850;Journal of Addiction;Open Access;775;2019
+2042-3195;Journal of Advanced Transportation;Open Access;2100;2019
+2090-2212;Journal of Aging Research;Open Access;775;2019
+2090-8873;Journal of Analytical Methods in Chemistry;Open Access;1600;2019
+1687-0042;Journal of Applied Mathematics;Open Access;975;2019
+1687-8566;Journal of Cancer Epidemiology;Open Access;1025;2019
+2090-9071;Journal of Chemistry;Open Access;1600;2019
+2090-1976;Journal of Combustion;Open Access;1025;2019
+2090-715X;Journal of Computer Networks and Communications;Open Access;1025;2019
+1687-5257;Journal of Control Science and Engineering;Open Access;1300;2019
+2314-6753;Journal of Diabetes Research;Open Access;1900;2019
 ;Journal of Drug Delivery;Open Access;1025;2019
-;Journal of Electrical and Computer Engineering;Open Access;1300;2019
-;Journal of Energy;Open Access;775;2019
-;Journal of Engineering;Open Access;1300;2019
-;Journal of Environmental and Public Health;Open Access;1025;2019
-;Journal of Food Quality;Open Access;1900;2019
-;Journal of Function Spaces;Open Access;1900;2019
-;Journal of Healthcare Engineering;Open Access;1900;2019
-;Journal of Immunology Research;Open Access;1900;2019
-;Journal of Interventional Cardiology;Open Access;1600;2019
-;Journal of Lipids;Open Access;1025;2019
+2090-0155;Journal of Electrical and Computer Engineering;Open Access;1300;2019
+2314-615X;Journal of Energy;Open Access;775;2019
+2314-4912;Journal of Engineering;Open Access;1300;2019
+1687-9813;Journal of Environmental and Public Health;Open Access;1025;2019
+1745-4557;Journal of Food Quality;Open Access;1900;2019
+2314-8888;Journal of Function Spaces;Open Access;1900;2019
+2040-2309;Journal of Healthcare Engineering;Open Access;1900;2019
+2314-7156;Journal of Immunology Research;Open Access;1900;2019
+1540-8183;Journal of Interventional Cardiology;Open Access;1600;2019
+2090-3049;Journal of Lipids;Open Access;1025;2019
 ;Journal of Marine Biology;Open Access;775;2019
-;Journal of Mathematics;Open Access;975;2019
-;Journal of Nanomaterials;Open Access;1900;2019
-;Journal of Nanotechnology;Open Access;1025;2019
-;Journal of Nucleic Acids;Open Access;1025;2019
-;Journal of Nutrition and Metabolism;Open Access;1025;2019
-;Journal of Obesity;Open Access;1025;2019
-;Journal of Oncology;Open Access;1300;2019
-;Journal of Ophthalmology;Open Access;2100;2019
-;Journal of Optimization;Open Access;975;2019
-;Journal of Osteoporosis;Open Access;1025;2019
-;Journal of Parasitology Research;Open Access;775;2019
-;Journal of Pathogens;Open Access;1025;2019
+2314-4785;Journal of Mathematics;Open Access;975;2019
+1687-4129;Journal of Nanomaterials;Open Access;1900;2019
+1687-9511;Journal of Nanotechnology;Open Access;1025;2019
+2090-021X;Journal of Nucleic Acids;Open Access;1025;2019
+2090-0732;Journal of Nutrition and Metabolism;Open Access;1025;2019
+2090-0716;Journal of Obesity;Open Access;1025;2019
+1687-8469;Journal of Oncology;Open Access;1300;2019
+2090-0058;Journal of Ophthalmology;Open Access;2100;2019
+2314-6486;Journal of Optimization;Open Access;975;2019
+2042-0064;Journal of Osteoporosis;Open Access;1025;2019
+2090-0031;Journal of Parasitology Research;Open Access;775;2019
+2090-3065;Journal of Pathogens;Open Access;1025;2019
 ;Journal of Pharmaceutics;Open Access;1025;2019
-;Journal of Pregnancy;Open Access;1025;2019
-;Journal of Probability and Statistics;Open Access;975;2019
-;Journal of Renewable Energy;Open Access;775;2019
-;Journal of Robotics;Open Access;1025;2019
-;Journal of Sensors;Open Access;1900;2019
-;Journal of Skin Cancer;Open Access;1025;2019
-;Journal of Spectroscopy;Open Access;1300;2019
-;Journal of Sports Medicine;Open Access;775;2019
-;Journal of Thyroid Research;Open Access;1025;2019
-;Journal of Toxicology;Open Access;1025;2019
-;Journal of Transplantation;Open Access;1025;2019
-;Journal of Tropical Medicine;Open Access;1025;2019
+2090-2735;Journal of Pregnancy;Open Access;1025;2019
+1687-9538;Journal of Probability and Statistics;Open Access;975;2019
+2314-4394;Journal of Renewable Energy;Open Access;775;2019
+1687-9619;Journal of Robotics;Open Access;1025;2019
+1687-7268;Journal of Sensors;Open Access;1900;2019
+2090-2913;Journal of Skin Cancer;Open Access;1025;2019
+2314-4939;Journal of Spectroscopy;Open Access;1300;2019
+2314-6176;Journal of Sports Medicine;Open Access;775;2019
+2042-0072;Journal of Thyroid Research;Open Access;1025;2019
+1687-8205;Journal of Toxicology;Open Access;1025;2019
+2090-0015;Journal of Transplantation;Open Access;1025;2019
+1687-9694;Journal of Tropical Medicine;Open Access;1025;2019
 ;Journal of Veterinary Medicine;Open Access;775;2019
 ;Malaria Research and Treatment;Open Access;775;2019
-;Mathematical Problems in Engineering;Open Access;2100;2019
-;Mediators of Inflammation;Open Access;1900;2019
-;Minimally Invasive Surgery;Open Access;1025;2019
-;Mobile Information Systems;Open Access;1900;2019
-;Modelling and Simulation in Engineering;Open Access;1025;2019
-;Multiple Sclerosis International;Open Access;1025;2019
-;Neural Plasticity;Open Access;1900;2019
-;Neurology Research International;Open Access;1025;2019
+1563-5147;Mathematical Problems in Engineering;Open Access;2100;2019
+1466-1861;Mediators of Inflammation;Open Access;1900;2019
+2090-1453;Minimally Invasive Surgery;Open Access;1025;2019
+1875-905X;Mobile Information Systems;Open Access;1900;2019
+1687-5605;Modelling and Simulation in Engineering;Open Access;1025;2019
+2090-2662;Multiple Sclerosis International;Open Access;1025;2019
+1687-5443;Neural Plasticity;Open Access;1900;2019
+2090-1860;Neurology Research International;Open Access;1025;2019
 ;Neuroscience Journal;Open Access;775;2019
-;Nursing Research and Practice;Open Access;1025;2019
-;Obstetrics and Gynecology International;Open Access;1025;2019
-;Occupational Therapy International;Open Access;1300;2019
-;Oxidative Medicine and Cellular Longevity;Open Access;2100;2019
-;Pain Research and Management;Open Access;1900;2019
-;Parkinson’s Disease;Open Access;1300;2019
-;PPAR Research;Open Access;1300;2019
-;Prostate Cancer;Open Access;1025;2019
-;Psyche: A Journal of Entomology;Open Access;1025;2019
-;Psychiatry Journal;Open Access;775;2019
-;Pulmonary Medicine;Open Access;1025;2019
-;Radiology Research and Practice;Open Access;1025;2019
-;Rehabilitation Research and Practice;Open Access;1025;2019
-;Sarcoma;Open Access;775;2019
-;Scanning;Open Access;1300;2019
-;Schizophrenia Research and Treatment;Open Access;1025;2019
-;Science and Technology of Nuclear Installations;Open Access;1300;2019
-;Scientific Programming;Open Access;1600;2019
-;Scientifica;Open Access;1025;2019
-;Security and Communication Networks;Open Access;1900;2019
-;Shock and Vibration;Open Access;2100;2019
-;Sleep Disorders;Open Access;775;2019
-;Stem Cells International;Open Access;1900;2019
-;Stroke Research and Treatment;Open Access;1025;2019
-;Surgery Research and Practice;Open Access;775;2019
-;The Scientific World Journal;Open Access;775;2019
-;Tuberculosis Research and Treatment;Open Access;775;2019
-;Veterinary Medicine International;Open Access;775;2019
-;Wireless Communications and Mobile Computing;Open Access;2100;2019
+2090-1437;Nursing Research and Practice;Open Access;1025;2019
+1687-9597;Obstetrics and Gynecology International;Open Access;1025;2019
+1557-0703;Occupational Therapy International;Open Access;1300;2019
+1942-0994;Oxidative Medicine and Cellular Longevity;Open Access;2100;2019
+1918-1523;Pain Research and Management;Open Access;1900;2019
+2042-0080;Parkinson’s Disease;Open Access;1300;2019
+1687-4765;PPAR Research;Open Access;1300;2019
+2090-312X;Prostate Cancer;Open Access;1025;2019
+1687-7438;Psyche: A Journal of Entomology;Open Access;1025;2019
+2314-4335;Psychiatry Journal;Open Access;775;2019
+2090-1844;Pulmonary Medicine;Open Access;1025;2019
+2090-195X;Radiology Research and Practice;Open Access;1025;2019
+2090-2875;Rehabilitation Research and Practice;Open Access;1025;2019
+1369-1643;Sarcoma;Open Access;775;2019
+1932-8745;Scanning;Open Access;1300;2019
+2090-2093;Schizophrenia Research and Treatment;Open Access;1025;2019
+1687-6083;Science and Technology of Nuclear Installations;Open Access;1300;2019
+1875-919X;Scientific Programming;Open Access;1600;2019
+2090-908X;Scientifica;Open Access;1025;2019
+1939-0122;Security and Communication Networks;Open Access;1900;2019
+1875-9203;Shock and Vibration;Open Access;2100;2019
+2090-3553;Sleep Disorders;Open Access;775;2019
+1687-9678;Stem Cells International;Open Access;1900;2019
+2042-0056;Stroke Research and Treatment;Open Access;1025;2019
+2356-6124;Surgery Research and Practice;Open Access;775;2019
+1537-744X;The Scientific World Journal;Open Access;775;2019
+2090-1518;Tuberculosis Research and Treatment;Open Access;775;2019
+2042-0048;Veterinary Medicine International;Open Access;775;2019
+1530-8677;Wireless Communications and Mobile Computing;Open Access;2100;2019
+1687-0409;Abstract and Applied Analysis;Open Access;1000;2020
+1563-5031;Active and Passive Electronic Components;Open Access;950;2020
+2314-7539;Advances in Agriculture;Open Access;750;2020
+1687-7977;Advances in Astronomy;Open Access;1000;2020
+1687-8094;Advances in Civil Engineering;Open Access;2200;2020
+1687-8124;Advances in Condensed Matter Physics;Open Access;1350;2020
+1687-711X;Advances in Fuzzy Systems;Open Access;950;2020
+1687-9112;Advances in Hematology;Open Access;750;2020
+1687-7365;Advances in High Energy Physics;Open Access;1350;2020
+1687-5907;Advances in Human-Computer Interaction;Open Access;950;2020
+1687-8442;Advances in Materials Science and Engineering;Open Access;2200;2020
+1687-9139;Advances in Mathematical Physics;Open Access;2050;2020
+2314-758X;Advances in Medicine;Open Access;750;2020
+1687-9317;Advances in Meteorology;Open Access;1650;2020
+1687-5699;Advances in Multimedia;Open Access;950;2020
+1687-9155;Advances in Operations Research;Open Access;1000;2020
+2090-3472;Advances in Orthopedics;Open Access;950;2020
+2633-4690;Advances in Pharmacological and Pharmaceutical Sciences;Open Access;950;2020
+1098-2329;Advances in Polymer Technology;Open Access;1950;2020
+2090-3499;Advances in Preventive Medicine;Open Access;750;2020
+2314-7784;Advances in Public Health;Open Access;750;2020
+1687-5923;Advances in Tribology;Open Access;950;2020
+1687-6377;Advances in Urology;Open Access;950;2020
+1687-8647;Advances in Virology;Open Access;950;2020
+2090-1259;AIDS Research and Treatment;Open Access;950;2020
+2210-7185;Analytical Cellular Pathology;Open Access;1650;2020
+2090-1275;Anemia;Open Access;950;2020
+1687-6970;Anesthesiology Research and Practice;Open Access;950;2020
+1687-7675;Applied and Environmental Soil Science;Open Access;950;2020
+1754-2103;Applied Bionics and Biomechanics;Open Access;1650;2020
+1687-9732;Applied Computational Intelligence and Soft Computing;Open Access;950;2020
+1472-3654;Archaea;Open Access;1350;2020
+2090-1933;Autism Research and Treatment;Open Access;750;2020
+2090-0430;Autoimmune Diseases;Open Access;950;2020
+1875-8584;Behavioural Neurology;Open Access;1650;2020
+2090-2255;Biochemistry Research International;Open Access;1350;2020
+1687-479X;Bioinorganic Chemistry and Applications;Open Access;1350;2020
+2314-6141;BioMed Research International;Open Access;2200;2020
+2291-2797;Canadian Journal of Gastroenterology and Hepatology;Open Access;2050;2020
+1918-1493;Canadian Journal of Infectious Diseases and Medical Microbiology;Open Access;1650;2020
+1916-7245;Canadian Respiratory Journal;Open Access;1650;2020
+2090-0597;Cardiology Research and Practice;Open Access;2050;2020
+1755-5922;Cardiovascular Therapeutics;Open Access;1950;2020
+2090-6390;Case Reports in Anesthesiology;Open Access;650;2020
+2090-6412;Case Reports in Cardiology;Open Access;650;2020
+2090-6439;Case Reports in Critical Care;Open Access;650;2020
+2090-6455;Case Reports in Dentistry;Open Access;650;2020
+2090-6471;Case Reports in Dermatological Medicine;Open Access;650;2020
+2090-6498;Case Reports in Emergency Medicine;Open Access;650;2020
+2090-651X;Case Reports in Endocrinology;Open Access;650;2020
+2090-6536;Case Reports in Gastrointestinal Medicine;Open Access;650;2020
+2090-6552;Case Reports in Genetics;Open Access;650;2020
+2090-6579;Case Reports in Hematology;Open Access;650;2020
+2090-6595;Case Reports in Hepatology;Open Access;650;2020
+2090-6617;Case Reports in Immunology;Open Access;650;2020
+2090-6633;Case Reports in Infectious Diseases;Open Access;650;2020
+1687-9635;Case Reports in Medicine;Open Access;650;2020
+2090-665X;Case Reports in Nephrology;Open Access;650;2020
+2090-6676;Case Reports in Neurological Medicine;Open Access;650;2020
+2090-6692;Case Reports in Obstetrics and Gynecology;Open Access;650;2020
+2090-6714;Case Reports in Oncological Medicine;Open Access;650;2020
+2090-6730;Case Reports in Ophthalmological Medicine;Open Access;650;2020
+2090-6757;Case Reports in Orthopedics;Open Access;650;2020
+2090-6773;Case Reports in Otolaryngology;Open Access;650;2020
+2090-679X;Case Reports in Pathology;Open Access;650;2020
+2090-6811;Case Reports in Pediatrics;Open Access;650;2020
+2090-6838;Case Reports in Psychiatry;Open Access;650;2020
+2090-6854;Case Reports in Pulmonology;Open Access;650;2020
+2090-6870;Case Reports in Radiology;Open Access;650;2020
+2090-6897;Case Reports in Rheumatology;Open Access;650;2020
+2090-6919;Case Reports in Surgery;Open Access;650;2020
+2090-6951;Case Reports in Transplantation;Open Access;650;2020
+2090-6978;Case Reports in Urology;Open Access;650;2020
+2090-6994;Case Reports in Vascular Medicine;Open Access;650;2020
+2090-701X;Case Reports in Veterinary Medicine;Open Access;650;2020
+1099-0526;Complexity;Open Access;2200;2020
+1748-6718;Computational and Mathematical Methods in Medicine;Open Access;2050;2020
+1687-5273;Computational Intelligence and Neuroscience;Open Access;2050;2020
+1552-5023;Concepts in Magnetic Resonance Part A, Bridging Education and Research;Open Access;1600;2020
+1552-504X;Concepts in Magnetic Resonance Part B, Magnetic Resonance Engineering;Open Access;1600;2020
+1555-4317;Contrast Media & Molecular Imaging;Open Access;1350;2020
+2090-1313;Critical Care Research and Practice;Open Access;950;2020
+1687-7071;Current Gerontology and Geriatrics Research;Open Access;750;2020
+2090-133X;Depression Research and Treatment;Open Access;750;2020
+1687-6113;Dermatology Research and Practice;Open Access;950;2020
+1607-887X;Discrete Dynamics in Nature and Society;Open Access;2200;2020
+1875-8630;Disease Markers;Open Access;1950;2020
+2090-4010;Education Research International;Open Access;950;2020
+2090-2859;Emergency Medicine International;Open Access;1650;2020
+1741-4288;Evidence-Based Complementary and Alternative Medicine;Open Access;2300;2020
+1687-630X;Gastroenterology Research and Practice;Open Access;2050;2020
+1468-8123;Geofluids;Open Access;1650;2020
+1098-1071;Heteroatom Chemistry;Open Access;1650;2020
+1098-0997;Infectious Diseases in Obstetrics and Gynecology;Open Access;750;2020
+1687-7098;Interdisciplinary Perspectives on Infectious Diseases;Open Access;750;2020
+1687-5974;International Journal of Aerospace Engineering;Open Access;2050;2020
+1687-8167;International Journal of Agronomy;Open Access;950;2020
+2090-0252;International Journal of Alzheimer’s Disease;Open Access;750;2020
+1687-8779;International Journal of Analytical Chemistry;Open Access;1650;2020
+1687-5877;International Journal of Antennas and Propagation;Open Access;2050;2020
+1687-8795;International Journal of Biomaterials;Open Access;950;2020
+1687-4196;International Journal of Biomedical Imaging;Open Access;950;2020
+2090-3189;International Journal of Breast Cancer;Open Access;950;2020
+1687-8884;International Journal of Cell Biology;Open Access;750;2020
+1687-8078;International Journal of Chemical Engineering;Open Access;1650;2020
+2314-5749;International Journal of Chronic Diseases;Open Access;750;2020
+1687-7055;International Journal of Computer Games Technology;Open Access;950;2020
+1687-9333;International Journal of Corrosion;Open Access;950;2020
+1687-8736;International Journal of Dentistry;Open Access;1350;2020
+1687-9651;International Journal of Differential Equations;Open Access;1000;2020
+1687-7586;International Journal of Digital Multimedia Broadcasting;Open Access;950;2020
+1687-9716;International Journal of Ecology;Open Access;750;2020
+2090-3537;International Journal of Electrochemistry;Open Access;950;2020
+1687-8345;International Journal of Endocrinology;Open Access;2050;2020
+2314-5765;International Journal of Food Science;Open Access;750;2020
+1687-9376;International Journal of Forestry Research;Open Access;750;2020
+2314-4378;International Journal of Genomics;Open Access;1650;2020
+1687-8868;International Journal of Geophysics;Open Access;950;2020
+2090-3456;International Journal of Hepatology;Open Access;950;2020
+2090-0392;International Journal of Hypertension;Open Access;1650;2020
+2042-0099;International Journal of Inflammation;Open Access;950;2020
+1687-0425;International Journal of Mathematics and Mathematical Sciences;Open Access;1000;2020
+1687-9198;International Journal of Microbiology;Open Access;950;2020
+2090-2158;International Journal of Nephrology;Open Access;950;2020
+1687-9392;International Journal of Optics;Open Access;1350;2020
+1687-921X;International Journal of Otolaryngology;Open Access;750;2020
+1687-9759;International Journal of Pediatrics;Open Access;950;2020
+1687-529X;International Journal of Photoenergy;Open Access;1650;2020
+1687-9430;International Journal of Polymer Science;Open Access;1650;2020
+1687-7209;International Journal of Reconfigurable Computing;Open Access;950;2020
+2314-5757;International Journal of Reproductive Medicine;Open Access;750;2020
+1687-9279;International Journal of Rheumatology;Open Access;950;2020
+1542-3034;International Journal of Rotating Machinery;Open Access;950;2020
+2090-1410;International Journal of Surgical Oncology;Open Access;950;2020
+1687-6423;International Journal of Telemedicine and Applications;Open Access;950;2020
+2090-2832;International Journal of Vascular Medicine;Open Access;950;2020
+1687-8485;International Journal of Zoology;Open Access;775;2020
+2090-7850;Journal of Addiction;Open Access;750;2020
+2042-3195;Journal of Advanced Transportation;Open Access;2200;2020
+2090-2212;Journal of Aging Research;Open Access;750;2020
+2090-8873;Journal of Analytical Methods in Chemistry;Open Access;1650;2020
+1687-0042;Journal of Applied Mathematics;Open Access;1000;2020
+1687-8566;Journal of Cancer Epidemiology;Open Access;950;2020
+2090-9071;Journal of Chemistry;Open Access;1650;2020
+2090-1976;Journal of Combustion;Open Access;950;2020
+2090-715X;Journal of Computer Networks and Communications;Open Access;1350;2020
+1687-5257;Journal of Control Science and Engineering;Open Access;1350;2020
+2314-6753;Journal of Diabetes Research;Open Access;2050;2020
+2090-0155;Journal of Electrical and Computer Engineering;Open Access;1350;2020
+2314-615X;Journal of Energy;Open Access;750;2020
+2314-4912;Journal of Engineering;Open Access;1350;2020
+1687-9813;Journal of Environmental and Public Health;Open Access;1350;2020
+1745-4557;Journal of Food Quality;Open Access;2050;2020
+2314-8888;Journal of Function Spaces;Open Access;2050;2020
+2040-2309;Journal of Healthcare Engineering;Open Access;2050;2020
+2314-7156;Journal of Immunology Research;Open Access;2050;2020
+1540-8183;Journal of Interventional Cardiology;Open Access;1950;2020
+2090-3049;Journal of Lipids;Open Access;950;2020
+2633-4674;Journal of Marine Sciences;Open Access;750;2020
+2314-4785;Journal of Mathematics;Open Access;1350;2020
+1687-4129;Journal of Nanomaterials;Open Access;2050;2020
+1687-9511;Journal of Nanotechnology;Open Access;950;2020
+2090-021X;Journal of Nucleic Acids;Open Access;950;2020
+2090-0732;Journal of Nutrition and Metabolism;Open Access;950;2020
+2090-0716;Journal of Obesity;Open Access;950;2020
+1687-8469;Journal of Oncology;Open Access;1950;2020
+2090-0058;Journal of Ophthalmology;Open Access;2200;2020
+2314-6486;Journal of Optimization;Open Access;1000;2020
+2042-0064;Journal of Osteoporosis;Open Access;950;2020
+2090-0031;Journal of Parasitology Research;Open Access;750;2020
+2090-3065;Journal of Pathogens;Open Access;950;2020
+2090-2735;Journal of Pregnancy;Open Access;950;2020
+1687-9538;Journal of Probability and Statistics;Open Access;1000;2020
+2314-4394;Journal of Renewable Energy;Open Access;750;2020
+1687-9619;Journal of Robotics;Open Access;950;2020
+1687-7268;Journal of Sensors;Open Access;2050;2020
+2090-2913;Journal of Skin Cancer;Open Access;950;2020
+2314-4939;Journal of Spectroscopy;Open Access;1650;2020
+2314-6176;Journal of Sports Medicine;Open Access;750;2020
+2042-0072;Journal of Thyroid Research;Open Access;950;2020
+1687-8205;Journal of Toxicology;Open Access;950;2020
+2090-0015;Journal of Transplantation;Open Access;950;2020
+1687-9694;Journal of Tropical Medicine;Open Access;1350;2020
+1563-5147;Mathematical Problems in Engineering;Open Access;2200;2020
+1466-1861;Mediators of Inflammation;Open Access;2050;2020
+2090-1453;Minimally Invasive Surgery;Open Access;950;2020
+1875-905X;Mobile Information Systems;Open Access;2050;2020
+1687-5605;Modelling and Simulation in Engineering;Open Access;950;2020
+2090-2662;Multiple Sclerosis International;Open Access;950;2020
+1687-5443;Neural Plasticity;Open Access;1950;2020
+2090-1860;Neurology Research International;Open Access;950;2020
+2090-1437;Nursing Research and Practice;Open Access;950;2020
+1687-9597;Obstetrics and Gynecology International;Open Access;950;2020
+1557-0703;Occupational Therapy International;Open Access;1350;2020
+1942-0994;Oxidative Medicine and Cellular Longevity;Open Access;2200;2020
+1918-1523;Pain Research and Management;Open Access;2050;2020
+2042-0080;Parkinson’s Disease;Open Access;1650;2020
+1687-4765;PPAR Research;Open Access;1650;2020
+2090-312X;Prostate Cancer;Open Access;950;2020
+1687-7438;Psyche: A Journal of Entomology;Open Access;950;2020
+2314-4335;Psychiatry Journal;Open Access;750;2020
+2090-1844;Pulmonary Medicine;Open Access;950;2020
+2090-195X;Radiology Research and Practice;Open Access;950;2020
+2090-2875;Rehabilitation Research and Practice;Open Access;950;2020
+1369-1643;Sarcoma;Open Access;750;2020
+1932-8745;Scanning;Open Access;1350;2020
+2090-2093;Schizophrenia Research and Treatment;Open Access;950;2020
+1687-6083;Science and Technology of Nuclear Installations;Open Access;1350;2020
+1875-919X;Scientific Programming;Open Access;1650;2020
+2090-908X;Scientifica;Open Access;950;2020
+1939-0122;Security and Communication Networks;Open Access;2050;2020
+1875-9203;Shock and Vibration;Open Access;2200;2020
+2090-3553;Sleep Disorders;Open Access;750;2020
+1687-9678;Stem Cells International;Open Access;2150;2020
+2042-0056;Stroke Research and Treatment;Open Access;950;2020
+2356-6124;Surgery Research and Practice;Open Access;750;2020
+1537-744X;The Scientific World Journal;Open Access;750;2020
+2090-1518;Tuberculosis Research and Treatment;Open Access;750;2020
+2042-0048;Veterinary Medicine International;Open Access;750;2020
+1530-8677;Wireless Communications and Mobile Computing;Open Access;2200;2020
