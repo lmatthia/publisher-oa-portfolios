@@ -47,6 +47,7 @@ Here are the links to the publishers' lists:
     + 2010: [OA](https://www.elsevier.com/editors-update/story/access/open-access-developing-new-publishing-models), [Hybrid](http://web.archive.org/web/20100523194902/http://www.elsevier.com:80/wps/find/authors.authors/sponsoredarticles)
     
 * Hindawi
+    + 2020: [OA](http://web.archive.org/web/20200413130600/https://www.hindawi.com/publish-research/authors/article-processing-charges/)
     + 2019: Thanks to [@dommitchell](https://github.com/dommitchell) and Hindawi
     
 * Oxford University Press
