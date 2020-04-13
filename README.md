@@ -30,6 +30,7 @@ Here are the links to the publishers' lists:
     + 2019: [OA & Hybrid](http://web.archive.org/web/20191218202019/https://www.cambridge.org/core/services/aop-file-manager/file/5783738dbd8dfd4e3283c3f2/Cambridge-Journals-APC-price-list-2019.11.xlsx)
 
 * Copernicus
+     + 2020: [OA](http://web.archive.org/web/20200413122949/https://publications.copernicus.org/for_authors/article_processing_charges.html)
     + 2019: From [journal metadata provided by the DOAJ](http://web.archive.org/web/20191218203559/https://s3.eu-west-2.amazonaws.com/doaj-data-cache/journalcsv__doaj_20191218_1935_utf8.csv). Thanks to [@dommitchell](https://github.com/dommitchell).
     
 * Elsevier
