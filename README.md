@@ -112,7 +112,7 @@ Here are the links to the publishers' lists:
 If you have any of the missing information or spreadsheets or website snippets that might be useful, please let me know.
 
 ### How to cite
-Lisa Matthias. (2020, May 24). Publisher OA Portfolios 2.0 (Version 2.0). Zenodo. [doi: 10.5281/zenodo.3841568](http://doi.org/10.5281/zenodo.3841568) 
+Lisa Matthias. (2020, May 23). Publisher OA Portfolios 2.0 (Version 2.0). Zenodo. [doi: 10.5281/zenodo.3841568](http://doi.org/10.5281/zenodo.3841568) 
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3841568.svg)](https://doi.org/10.5281/zenodo.3841568)
 
