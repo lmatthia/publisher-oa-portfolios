@@ -1,0 +1,22 @@
+﻿{
+    "description": "<p>Publisher OA Portfolios as of April 2020</p>", 
+    "license": "CC-BY-4.0", 
+    "title": "lmatthia/publisher-oa-portfolios v2.0", 
+    "version": "v2.0", 
+    "upload_type": "dataset", 
+    "publication_date": "2020-04-13", 
+    "creators": [
+        {
+            "name": "Lisa Matthias",
+			"orcid": "0000-0002-2612-2132"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/lmatthia/publisher-oa-portfolios/tree/v2.0", 
+            "relation": "isSupplementTo"
+        }
+    ]
+}
