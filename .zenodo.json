@@ -1,7 +1,9 @@
-﻿{
+{
     "description": "<p>Publisher OA Portfolios as of April 2020</p>", 
-    "license": "CC-BY-4.0", 
-    "title": "lmatthia/publisher-oa-portfolios 2.0", 
+    "license":  {
+        "id": "CC-BY-4.0"
+    },
+    "title": "Publisher OA Portfolios 2.0", 
     "version": "2.0", 
     "upload_type": "dataset", 
     "publication_date": "2020-04-13", 
